@@ -4,8 +4,8 @@ html {
 }
 
 p, ul, ol, dl {
-font-size: 1.6rem;
-margin-bottom: 12px;
+  font-size: 1.6rem;
+  margin-bottom: 12px;
 }
 
 article {
